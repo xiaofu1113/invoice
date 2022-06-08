@@ -12,6 +12,9 @@ public class Task extends Thread {
         while (true) {
             if (this.isInterrupted()) {
                 System.out.println(Thread.currentThread().getName()+"线程停止了");
+                System.out.println(123);
+                System.out.println(123456);
+                System.out.println(123456789);
                 break;
             }
         }
