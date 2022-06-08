@@ -15,6 +15,7 @@ public class Task extends Thread {
                 System.out.println(123);
                 System.out.println(123456);
                 System.out.println(123456789);
+                System.out.println("abc");
                 break;
             }
         }
