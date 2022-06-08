@@ -19,8 +19,6 @@ public class Task extends Thread {
                 System.out.println("abc");
                 System.out.println("efg");
                 System.out.println("abc");
-                System.out.println("abc");
-                System.out.println("efg");
                 break;
             }
         }
